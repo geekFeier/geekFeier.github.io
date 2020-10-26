@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: blog
-subtitle: 'subtitle'
-description: 'description'
+title: feier
+subtitle: 一个程序员半辈子的收藏
+description: 程序员常用导航
 keywords:
 author: geekFeier
 language: en
